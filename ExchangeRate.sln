@@ -4,7 +4,7 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeServiceAPI", "ExchangeServiceAPI\ExchangeServiceAPI.csproj", "{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RateProviders", "ExchangeRateProviders\RateProviders\RateProviders.csproj", "{EA46ED92-F9F8-5F83-0698-BE049A1A116C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RateProviders", "ExchangeRateProviders\RateProviders.csproj", "{EA46ED92-F9F8-5F83-0698-BE049A1A116C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeServiceAPI.Tests", "ExchangeServiceAPI.Tests\ExchangeServiceAPI.Tests.csproj", "{04E85F28-F008-49CB-B050-C24F3BD4B2A8}"
 EndProject
